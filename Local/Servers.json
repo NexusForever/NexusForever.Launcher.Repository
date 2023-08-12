@@ -1,0 +1,13 @@
+{
+    "Name": "NexusForever Local Repository",
+    "Description": "A repository containing a local game server instance.",
+    "Servers": [
+        {
+            "Name": "Local Server",
+            "Description": "A local NexusForever game server instance.",
+            "Address": "localhost",
+            "Website": null,
+            "Discord": null
+        }
+    ]
+}
