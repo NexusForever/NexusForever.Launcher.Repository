@@ -1,6 +1,7 @@
 {
     "Name": "NexusForever Community Repository",
     "Description": "A repository containing community hosted game servers.",
+    "CustomMessage": "#{Name} has been marked as a custom server; It might require additional client setup before playing.\r\nIf you encounter any issues, contact the community for further information.\r\n",
     "Servers": [
         {
             "Name": "Kirmmin's Test Server",
