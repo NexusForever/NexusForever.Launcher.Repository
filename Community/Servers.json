@@ -10,22 +10,6 @@
             "Website": "https://ws-test.kirmm.in",
             "Discord": null,
             "Custom": false
-        },
-        {
-            "Name": "Genesis Prime",
-            "Description": null,
-            "Address": "server.genesisprime.ws",
-            "Website": null,
-            "Discord": "http://discord.genesisprime.ws/",
-            "Custom": true
-        },
-        {
-            "Name": "Omechron",
-            "Description": null,
-            "Address": "main.omechron.ws",
-            "Website": null,
-            "Discord": "https://discord.gg/Y6tDDXWNJW",
-            "Custom": true
         }
     ]
 }
