@@ -4,6 +4,14 @@
     "CustomMessage": "#{Name} has been marked as a custom server; It might require additional client setup before playing.\r\nIf you encounter any issues, contact the community for further information.\r\n",
     "Servers": [
         {
+            "Name": "NexusForever Test Server",
+            "Description": null,
+            "Address": "server.emulator.ws",
+            "Website": null,
+            "Discord": null,
+            "Custom": false
+        },
+        {
             "Name": "Kirmmin's Test Server",
             "Description": null,
             "Address": "ws-test.kirmm.in",
